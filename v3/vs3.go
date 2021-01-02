@@ -9,5 +9,5 @@ func (t T2) H() string {
 	return "T2.H"
 }
 func (t T2) F() string {
-	return "T2.F
+	return "T2.F"
 }
