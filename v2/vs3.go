@@ -11,3 +11,7 @@ type T2 struct {
 func (t T2) H() string {
 	return "T2.G"
 }
+
+func (t T2) F() string {
+	return "T2.F"
+}
